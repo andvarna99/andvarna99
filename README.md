@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my time as a musician**
 
-- 📫 How to reach me **andrea.h.varnado@gmail.com**
+- 📫 How to reach me **contact@andreavarnado.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
