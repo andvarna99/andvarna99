@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrea Varnado</h1>
 <h3 align="center">A passionate software developer from San Antonio, Tx</h3>
 
-- 🔭 I’m currently working on [Wedding-Wise](https://github.com/i-do-crew/wedding-wise.git)
+- 🔭 I’m currently working on **50 projects in 50 days**
 
-- 🌱 I’m currently learning **web development at Codeup**
+- 🌱 I’m currently refamiliarizing myself with **Javascript**
 
 - 💬 Ask me about **my time as a musician**
 
