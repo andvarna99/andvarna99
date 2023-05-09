@@ -7,7 +7,7 @@
 
 🌱 I’m currently refamiliarizing myself with **Javascript**
 
-👨‍💻 Check out my portfolio at [https://www.andreavarnado.com/](www.andreavarnado.com)
+👨‍💻 Check out my portfolio at [www.andreavarnado.com](https://www.andreavarnado.com/)
 
 💬 Ask me about **my time as a musician**
 
