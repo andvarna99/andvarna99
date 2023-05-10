@@ -5,7 +5,7 @@
   
 🔭 I’m currently working on **50 projects in 50 days**
 
-🌱 I’m currently refamiliarizing myself with **Javascript**
+🌱 I’m currently learning **React**
 
 👨‍💻 Check out my portfolio at [www.andreavarnado.com](https://www.andreavarnado.com/)
 
