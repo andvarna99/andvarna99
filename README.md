@@ -28,8 +28,8 @@
 </div>
 
 
-<!-- <div align=center>
+<div align=center>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andvarna99&show_icons=true&locale=en&layout=compact" alt="andvarna99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andvarna99&show_icons=true&locale=en" alt="andvarna99" /></p>
-</div> -->
+</div>
