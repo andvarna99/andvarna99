@@ -3,9 +3,9 @@
 
 <div align="center">
   
-🔭 I’m currently working on **50 projects in 50 days**
+🔭 I’m currently working at **Elevate Systems**
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **Ruby on Rails, SCSS, and HAML**
 
 👨‍💻 Check out my portfolio at [www.andreavarnado.com](https://www.andreavarnado.com/)
 
