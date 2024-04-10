@@ -5,7 +5,7 @@
   
 🔭 I’m currently working at **Elevate Systems**
 
-🌱 I’m currently learning **Ruby, Rspec, Capybara, and FactoryBot**
+🌱 I’m currently learning about **Sustainable Web Development with Ruby on Rails**
 
 👨‍💻 Check out my portfolio at [www.andreavarnado.com](https://www.andreavarnado.com/)
 
