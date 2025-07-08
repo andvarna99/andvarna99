@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-Gifs-For-Github/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="600">
+  <br><br>
+</div>
+
 # 💫 About Me:
 
 I'm a frontend-focused software engineer with 2 years of experience building responsive, accessible web applications in React and Rails. Currently at Elevate Systems, I've led CMS redesigns, built document review platforms, and delivered features that streamline workflows for government agencies.<br><br>My journey to tech began with a background in Classical Vocal Performance at UNT, before I discovered my passion for coding through a Bootcamp. This creative foundation helps me approach engineering with both technical rigor and an eye for user experience that truly serves people's needs.
